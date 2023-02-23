@@ -1,6 +1,6 @@
 # learn-shell
 
-Shell Scripting Topics.
+Shell Scripting Topics
 
 ```text
 1. Printing
